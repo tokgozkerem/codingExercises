@@ -1,6 +1,6 @@
 # Coding Exercises
 
-This repository contains a collection of various basic and array-related program examples in the Python programming language. Its purpose is to help learners and developers practice Python.
+This repository contains a collection of various basic, array-related, and list-related program examples in the Python programming language. Its purpose is to help learners and developers practice Python.
 
 ## Basic Programs
 
