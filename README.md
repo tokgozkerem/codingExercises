@@ -42,9 +42,8 @@ This folder contains program examples related to lists in Python.
 
 ## How to Use?
 
-Each program's Python file is listed along with its name. Inside each file, there are comments explaining what the program does and how to use the required inputs.
-
-If you find yourself learning Python or practicing, these examples can guide you. Additionally, you can help other Python developers by reviewing these examples or integrating them into your own projects.
+Each program's Python file is listed along with its name.
+If you find yourself learning Python or practicing, these examples can guide you.
 
 ## Contributing
 
