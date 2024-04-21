@@ -39,6 +39,14 @@ This folder contains program examples related to lists in Python.
 7. **multiply_all_numbers_in_list.py**: Multiplies all numbers in a list.
 8. **reverse_list.py**: Reverses a list.
 9. **swap_two_elements_in_alist.py**: Swaps two elements in a list.
+10. **all_even_numbers_in_a_range.py**: Finds all even numbers in a given range.
+11. **all_odd_numbers_in_a_range.py**: Finds all odd numbers in a given range.
+12. **find_even_numbers_in_list.py**: Finds all even numbers in a list.
+13. **find_n_largest_elements_in_list.py**: Finds the n largest elements in a list.
+14. **find_odd_numbers_in_list.py**: Finds all odd numbers in a list.
+15. **print_negative_numbers_in_list.py**: Prints negative numbers in a list.
+16. **print_positive_numbers_in_list.py**: Prints positive numbers in a list.
+17. **remove_duplicates_from_list.py**: Removes duplicate elements from a list.
 
 ## How to Use?
 
