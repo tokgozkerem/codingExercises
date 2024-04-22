@@ -3,7 +3,7 @@ def positiveNums(arr):
     return positivenums
 
 
-print(positiveNums([-2, -5, 19, 45, -23, 0, 13]))
+# print(positiveNums([-2, -5, 19, 45, -23, 0, 13]))
 
 
 def posNums(arr):
@@ -15,4 +15,4 @@ def posNums(arr):
     return positive
 
 
-print(posNums([-2, -5, 19, 45, -23, 0, 13]))
+# print(posNums([-2, -5, 19, 45, -23, 0, 13]))

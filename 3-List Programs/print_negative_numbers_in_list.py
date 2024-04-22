@@ -3,7 +3,7 @@ def negativenums(arr):
     return new_list
 
 
-print(negativenums([-2, -5, 19, 45, -23, 0, 13]))
+# print(negativenums([-2, -5, 19, 45, -23, 0, 13]))
 
 
 def negNums(arr):
@@ -14,4 +14,4 @@ def negNums(arr):
     return negatives
 
 
-print(negNums([-2, -5, 19, 45, -23, 0, 13]))
+# print(negNums([-2, -5, 19, 45, -23, 0, 13]))
