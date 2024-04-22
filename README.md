@@ -30,23 +30,23 @@ This folder contains program examples related to arrays in Python.
 
 This folder contains program examples related to lists in Python.
 
-1. **check_element_exist_in_list.py**: Checks if an element exists in a list.
-2. **find_len_of_list.py**: Finds the length of a list.
-3. **find_max_num_in_list.py**: Finds the maximum number in a list.
-4. **find_smallest_number_in_list.py**: Finds the smallest number in a list.
-5. **find_sum_of_list.py**: Finds the sum of elements in a list.
-6. **interchange_first_and_last_el_in_list.py**: Interchanges the first and last elements of a list.
-7. **multiply_all_numbers_in_list.py**: Multiplies all numbers in a list.
-8. **reverse_list.py**: Reverses a list.
-9. **swap_two_elements_in_alist.py**: Swaps two elements in a list.
-10. **all_even_numbers_in_a_range.py**: Finds all even numbers in a given range.
-11. **all_odd_numbers_in_a_range.py**: Finds all odd numbers in a given range.
-12. **find_even_numbers_in_list.py**: Finds all even numbers in a list.
-13. **find_n_largest_elements_in_list.py**: Finds the n largest elements in a list.
-14. **find_odd_numbers_in_list.py**: Finds all odd numbers in a list.
-15. **print_negative_numbers_in_list.py**: Prints negative numbers in a list.
-16. **print_positive_numbers_in_list.py**: Prints positive numbers in a list.
-17. **remove_duplicates_from_list.py**: Removes duplicate elements from a list.
+1. **all_even_numbers_in_a_range.py**: Finds all even numbers in a given range.
+2. **all_odd_numbers_in_a_range.py**: Finds all odd numbers in a given range.
+3. **check_element_exist_in_list.py**: Checks if an element exists in a list.
+4. **find_even_numbers_in_list.py**: Finds all even numbers in a list.
+5. **find_len_of_list.py**: Finds the length of a list.
+6. **find_max_num_in_list.py**: Finds the maximum number in a list.
+7. **find_n_largest_elements_in_list.py**: Finds the n largest elements in a list.
+8. **find_odd_numbers_in_list.py**: Finds all odd numbers in a list.
+9. **find_smallest_number_in_list.py**: Finds the smallest number in a list.
+10. **find_sum_of_list.py**: Finds the sum of elements in a list.
+11. **interchange_first_and_last_el_in_list.py**: Interchanges the first and last elements of a list.
+12. **multiply_all_numbers_in_list.py**: Multiplies all numbers in a list.
+13. **print_negative_numbers_in_list.py**: Prints negative numbers in a list.
+14. **print_positive_numbers_in_list.py**: Prints positive numbers in a list.
+15. **remove_duplicates_from_list.py**: Removes duplicate elements from a list.
+16. **reverse_list.py**: Reverses a list.
+17. **swap_two_elements_in_alist.py**: Swaps two elements in a list.
 
 ## How to Use?
 
